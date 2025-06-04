@@ -1,3 +1,10 @@
+"""
+find_centroid.py
+Purpose is to calculate the centroid of an imported mask of a cube
+Original code by 19451710 (2025)
+"""
+
+
 import numpy as np
 import cv2
 
