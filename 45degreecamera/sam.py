@@ -1,3 +1,9 @@
+"""
+sam.py
+Purpose is to create and use the segment anything model for cube segmentation
+sourced externally from https://github.com/facebookresearch/segment-anything
+
+"""
 # === sam.py ===
 import torch
 import numpy as np
