@@ -1,3 +1,10 @@
+"""
+realsense_utils.py
+Purpose is to set up the intel realsense camera
+sourced externally from https://pysource.com 
+defines a functions for the Intel RealSense camera to make coding easier
+depth functionaility included but not used
+"""
 # === realsense_utils.py ===
 import pyrealsense2 as rs
 import numpy as np
