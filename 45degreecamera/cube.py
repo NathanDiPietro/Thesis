@@ -1,3 +1,10 @@
+"""
+cube.py
+purpose is store cube related information into a cube object
+original code by 19451710 (2025)
+
+"""
+
 class Cube:
     def __init__(self, x, y, z, quat):
         self.x = x
