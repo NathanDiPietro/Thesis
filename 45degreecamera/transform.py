@@ -1,3 +1,10 @@
+"""
+    transform.py
+    Purpose is to calibrate the coordinates and transform camera to robot coordinate spaces
+
+    Original Code by 19451710 (2025)
+
+"""
 # === transform.py ===
 import numpy as np
 import cv2
