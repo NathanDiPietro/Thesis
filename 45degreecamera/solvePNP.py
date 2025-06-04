@@ -1,3 +1,11 @@
+"""
+    solvePNP.py
+    Purpose is to find the pose of each of the cubes using solvePNP method
+    also draws cartesian axes for clarity and calculates euler angles
+
+    Original Code by 19451710 (2025)
+
+"""
 import cv2
 import numpy as np
 from itertools import permutations, combinations
