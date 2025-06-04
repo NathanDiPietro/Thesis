@@ -1,4 +1,11 @@
-# robot_sender.py
+"""
+    send_to_robot.py
+    Purpose is to send the cube data to the IRB120 robot
+
+    Original Code by 19451710 (2025)
+
+"""
+# send_to_robot.py
 
 import socket
 import time
