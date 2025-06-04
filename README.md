@@ -45,6 +45,9 @@ transforms the coordinates to robot space, and communicates this information ove
 The python files are run through main.py, The RobotStudio code is synchronised to the IRC5 cotnroller to run 
 via the FlexPendant
 
+## Results
+Results can be viewed in the Results Photos folder which contains screenshots of the program running
+
 ## Author
 Nathan Di Pietro (19451710) Curtin University
 
