@@ -1,3 +1,8 @@
+"""
+pose_transform.py
+Purpose is to transform the cameras perspective of the cube pose to the robots perspective for pick and place task
+Original code by 19451710 (2025)
+"""
 import numpy as np
 from scipy.spatial.transform import Rotation as R
 
