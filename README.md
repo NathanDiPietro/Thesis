@@ -19,7 +19,7 @@ transforms the coordinates to robot space, and communicates this information ove
 
 ---
 ## File Structure (The files used for the project, others in the Git were tested but not used)
-.
+
 ├── 45degreecamera/                        # Python vision + control system
 │   ├── main.py                            # Main script: segmentation → pose → send
 │   ├── realsense_utils.py                 # RealSense setup and frame alignment
